@@ -1,37 +1,36 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2020-11-8
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>Hi, I am <b>Yamozha</b> a.k.a Boyan Karakostov</center>
 
-## Preview
+## I am
+* An aspiring Software Engineer, SysAdmin and Web Designer.
+* A freelancer([Send me an email!](mailto:boyan+freelance@bobokara.com))
+* SysAdmin, Sales Manager and Web designer for [Cleener Clothing](https://cleener.xyz)
+* Chess, Rubik's cube and video games enthusiast.
+* Blog enthusiast.
+* Creator of [daskalo.xyz](https://github.com/yamozha/daskalo-xyz)
+
+## Cleener
+
+Cleener is the current project I am working on, it being a clothing brand. I'll let you look around and try to get the amazingly *innovative* idea we came up with.
+I'll just give you a little sneak peek.
+
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://www.cleener.xyz/wp-content/uploads/2020/11/IMG_3799-e1604692973529.png
+    https://www.cleener.xyz/wp-content/uploads/2020/10/IMG_3803-e1604692904723.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Cleener" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+See our [website](https://cleener.xyz).
 
-## Getting Started
+## Contact me and see my projects!
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+You can [Send me an email](mailto:boyan+freelance@bobokara.com)!
+Or check out my other projects at [My GitHub](https://github.com/yamozha)
