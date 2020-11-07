@@ -18,7 +18,7 @@ comments: false
 
 ## Cleener
 
-Cleener is the current project I am working on, it being a clothing brand. I'll let you look around and try to get the amazingly *innovative* idea we came up with.
+Cleener is the current project I am working on, it being a clothing brand. I'll let you look around and try to get the amazingly *innovative* idea we came up with.  
 I'll just give you a little sneak peek.
 
 
