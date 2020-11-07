@@ -32,5 +32,5 @@ See our [website](https://cleener.xyz).
 
 ## Contact me and see my projects!
 
-You can [Send me an email](mailto:boyan+freelance@bobokara.com)!
+You can [Send me an email](mailto:boyan+freelance@bobokara.com) !  
 Or check out my other projects at [My GitHub](https://github.com/yamozha)
