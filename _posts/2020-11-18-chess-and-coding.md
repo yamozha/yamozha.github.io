@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Chess and coding"
+title:  "Chess and Coding"
 date:   2020-11-18
-excerpt: "And all things computer chess"
+excerpt: "All things computer chess, chess replays/logging, mathematical concepts and more."
 feature: https://yamozha.xyz/assets/img/posts/chess_coding.png
 tag:
 - coding
@@ -116,7 +116,7 @@ I made a PGN to gif script a couple of weeks ago, hosted on [Github](https://gis
 
 
 ## Conclusion
-The possibilities to use chess in your mathematical/coding projects are endless - from a protocol and server like [FICS](https://www.freechess.org/) all the way to a chess neural network like [AlphaZero](https://www.chess.com/blog/the_real_greco/understanding-alphazero-a-basic-chess-neural-network). Chess is a mathematical and logical masterpiece of a game, and playing it and thinking and developing your own concepts and theories is a surprisingly entertaining thing to do. 
+The possibilities to use chess in your mathematical/coding projects are endless - from a protocol and server like [FICS](https://www.freechess.org/) all the way to a chess neural network like [AlphaZero](https://www.chess.com/blog/the_real_greco/understanding-alphazero-a-basic-chess-neural-network). Chess is a mathematical and logical masterpiece of a game, and playing it and thinking and developing your own concepts and theories is a surprisingly entertaining thing to do.
 Thanks for reading!
 
 
