@@ -114,7 +114,7 @@ I made a PGN to gif script a couple of weeks ago as seen here:
 
 <script src="https://gist.github.com/yamozha/d1e7e89764fc2a556e450e1b59a4039f.js"></script>
 
-and using it on the game between Einstein and Oppenheimer mentioned above, we get:
+and using it on the game between Einstein(white) and Oppenheimer(black) mentioned above, we get:
 
 ![GeniusGame](/assets/img/posts/einsteinoppenheimer.gif)
 
