@@ -89,7 +89,7 @@ In that part we have a number - `1.`, and you have a set of letters and numbers 
 
 So to translate the whole entire pgn body syntax to you, it goes like this:
 
-- just the number and letter combination that describes space on the board means that a pawn has moved at it. - `e4 e5`
+- just the number and letter combination that describes space on the board means that a pawn has moved to it. - `e4 e5`
 
 - uppercase letter, number and letter combination - other figure has moved - N being knight, B - bishop, Q - queen R- rook, K - king e.g `Nf6`, which looks like this:  
 
