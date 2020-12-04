@@ -58,6 +58,6 @@ Mathematics shares much in common with many fields in the physical sciences, not
 
 The opinions of mathematicians on this matter are varied. Many mathematicians feel that to call their area a science is to downplay the importance of its aesthetic side, and its history in the traditional seven liberal arts; others feel that to ignore its connection to the sciences is to turn a blind eye to the fact that the interface between mathematics and its applications in science and engineering has driven much development in mathematics. One way this difference of viewpoint plays out is in the philosophical debate as to whether mathematics is created (as in art) or discovered (as in science). In practice, mathematicians are typically grouped with scientists at the gross level but separated at finer levels. This is one of many issues considered in the philosophy of mathematics.
 
-#Conclusuion  
+# Conclusuion  
 
 So tl;dr maths are something based on nothing. Think about that.
