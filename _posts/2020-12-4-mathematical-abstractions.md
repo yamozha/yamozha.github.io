@@ -34,7 +34,7 @@ Or maybe this
 ![Abstract 3D art](https://yamozha.xyz/assets/img/posts/3d_abstract.jpg)
 But in reality, the abstraction which maths are based on is much wider than just this. As you probably have wondered some time in your life, maths are a weird thing. A weird, sometimes beautiful, sometimes ugly but always really strange thing. Strange because of the fact that it's based on **absolutely nothing.**  
 A lot of people have theories, beliefs and conspiracies on how and why maths is so universal and it works, because it does. You have numerous laws within mathematics and other fields of science like physics, geography, chemistry, etc. that actually use mathematical laws. And they work! In all the fields they're used in - you can accurately predict the distance between Earth and Mars in the next year, you can calculate the exact position of anything using coordinates, you can add and subtract chemicals.  
-**So how does it work? Is this magic? What are numbers? What is the meaning of life?**
+**So how does it work? Is this magic? What are numbers? What is the meaning of life?**  
 Those are questions that are normal to pop up in your head, and a lot of people will try to answer that, and we will look at a couple of them in this post.  
 Starting with...
 
