@@ -48,7 +48,7 @@ Early-Pythagorean philosophers such as Philolaus and Archytas held the convictio
 
 Pythagoreanism included a lot of questionable practices, through the eyes of a rational human being in the 21st century of course. Practices that are equivalent to modern astrology. I will give you a small segment and a link to learn more about that, because I don't want to talk about it too much.  
 `Number: 1; Positive qualities: Initiative, leadership, individuality, courage, executive ability.;  Negative qualities:Selfishness, laziness, aggressiveness, egotism.`
-If you want to see this be my guest - in this [sketchy website][https://thesagedivine.com/pythagorean-numerology/]
+If you want to see this be my guest - in this [sketchy website](https://thesagedivine.com/pythagorean-numerology/)
 
 # Others
 The German mathematician Carl Friedrich Gauss referred to mathematics as "the Queen of the Sciences". More recently, Marcus du Sautoy has called mathematics "the Queen of Science ... the main driving force behind scientific discovery". The philosopher Karl Popper observed that "most mathematical theories are, like those of physics and biology, hypothetico-deductive: pure mathematics therefore turns out to be much closer to the natural sciences whose hypotheses are conjectures, than it seemed even recently." Popper also noted that "I shall certainly admit a system as empirical or scientific only if it is capable of being tested by experience."
