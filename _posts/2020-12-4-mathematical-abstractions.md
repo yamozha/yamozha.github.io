@@ -3,7 +3,7 @@ layout: post
 title:  "The ignored definition of mathematics"
 date:   2020-12-04
 excerpt: "There is no official definition of mathematics, but most people's definition is a completely accurate and based on absolute certainty. In this post I'll be talking about that..."
-feature: https://yamozha.xyz/assets/img/posts/pi.png
+feature: https://yamozha.xyz/assets/img/posts/pi.jpg
 tag:
 - mathematics
 - maths
@@ -29,9 +29,9 @@ Stemming from the fact that everyone is obliged to study at least a little of ma
 
 ## The abstraction in mathematics.
 Most people will picture this in their minds while reading the word abstraction in their minds  
-![Abstract Art][https://yamozha.xyz/assets/img/posts/abstract_art.jpeg]  
-Or maybe this
-![Abstract 3D art][https://yamozha.xyz/assets/img/posts/3d_abstract.jpg]  
+![Abstract Art](https://yamozha.xyz/assets/img/posts/abstract_art.jpeg)
+Or maybe this  
+![Abstract 3D art](https://yamozha.xyz/assets/img/posts/3d_abstract.jpg)
 But in reality, the abstraction which maths are based on is much wider than just this. As you probably have wondered some time in your life, maths are a weird thing. A weird, sometimes beautiful, sometimes ugly but always really strange thing. Strange because of the fact that it's based on **absolutely nothing.**  
 A lot of people have theories, beliefs and conspiracies on how and why maths is so universal and it works, because it does. You have numerous laws within mathematics and other fields of science like physics, geography, chemistry, etc. that actually use mathematical laws. And they work! In all the fields they're used in - you can accurately predict the distance between Earth and Mars in the next year, you can calculate the exact position of anything using coordinates, you can add and subtract chemicals.  
 **So how does it work? Is this magic? What are numbers? What is the meaning of life?**
