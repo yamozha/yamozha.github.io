@@ -12,10 +12,10 @@ comments: false
 * An aspiring Software Engineer and Web Designer.
 * A freelancer([Send me an email!](mailto:boyan+freelance@bobokara.com))
 * SysAdmin, Sales Manager and Web designer for [Cleener Clothing](https://cleener.xyz)
-* Chess, Rubik's cube and video games enthusiast.
+* Chess, Rubik's cube and video games enthusiast.  
 * Blog enthusiast.
 * Creator of [daskalo.xyz](https://github.com/yamozha/daskalo-xyz)
-* I also like white hat/ ethical hacking
+* I also like white hat/ ethical hacking  
 
 ## Cleener
 
@@ -24,8 +24,8 @@ I'll just give you a little sneak peek.
 
 
 {% capture images %}
-    https://www.cleener.xyz/wp-content/uploads/2020/11/IMG_3799-e1604692973529.png
-    https://www.cleener.xyz/wp-content/uploads/2020/10/IMG_3803-e1604692904723.png
+    https://yamozha.xyz/assets/img/gogo.png
+	https://yamozha.xyz/assets/img/viki.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Cleener" cols=2 %}
 
