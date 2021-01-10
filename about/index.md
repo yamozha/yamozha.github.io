@@ -9,12 +9,13 @@ comments: false
 <center>Hi, I am <b>Yamozha</b> a.k.a Boyan Karakostov</center>
 
 ## I am
-* An aspiring Software Engineer, SysAdmin and Web Designer.
+* An aspiring Software Engineer and Web Designer.
 * A freelancer([Send me an email!](mailto:boyan+freelance@bobokara.com))
 * SysAdmin, Sales Manager and Web designer for [Cleener Clothing](https://cleener.xyz)
 * Chess, Rubik's cube and video games enthusiast.
 * Blog enthusiast.
 * Creator of [daskalo.xyz](https://github.com/yamozha/daskalo-xyz)
+* I also like white hat/ ethical hacking
 
 ## Cleener
 
