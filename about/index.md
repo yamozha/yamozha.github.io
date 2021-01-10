@@ -32,6 +32,6 @@ See our [website](https://cleener.xyz).
 
 ## Contact me and see my projects!
 
-[Here's a description of some of my projects + some other stuff](https://yamozha.xyz/interests.pdf)
+[Here's a description of some of my projects + some other stuff](https://yamozha.xyz/interests.pdf)  
 You can [Send me an email](mailto:boyan+freelance@bobokara.com) !  
 Or check out my other projects at [My GitHub](https://github.com/yamozha)
