@@ -34,5 +34,5 @@ So this is the final product:
 ![the newest rendition](/assets/img/posts/daskalo_new.png)
 
 
-you can check out the code [over here]("https://github.com/yamozha/daskalo-xyz")  
-but I believe only the [PHP script]("https://github.com/yamozha/daskalo-xyz/blob/main/programs/10a/program.php") is worth looking at.
+you can check out the code [over here](https://github.com/yamozha/daskalo-xyz)  
+but I believe only the [PHP script](https://github.com/yamozha/daskalo-xyz/blob/main/programs/10a/program.php) is worth looking at.
